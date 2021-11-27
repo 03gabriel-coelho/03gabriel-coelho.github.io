@@ -31,6 +31,7 @@ p {
     border:10px solid blue;
     margin-top: 50px;
     margin-bottom: 50px;
+    border-radius: 50%;
 }
 #um {
     position:absolute;
